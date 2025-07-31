@@ -7,10 +7,6 @@ Kullanıcı, Microsoft Access veritabanı üzerinden kitap ekleyebilir, güncell
 Ayrıca kitapların **puan** ve **sayfa sayısı** gibi verileri rastgele güncelleyebilir,  
 ortalama puanı SQL sorgusu ile ve SQL sorgusu olmadan hesaplayabilir.
 
-
-### Uygulama Arayüzü
-
-![Ekran Görüntüsü](Kitap Bilgi Sistemi.png)  
 ### Özellikler
 
 - Kitap kayıtlarını listeleme  
