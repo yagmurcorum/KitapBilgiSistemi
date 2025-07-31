@@ -26,6 +26,7 @@ ortalama puanı SQL sorgusu ile ve SQL sorgusu olmadan hesaplayabilir.
 
 
 ▶ Nasıl Kullanılır?
+
 Sayfa Ekle: Tüm kitapların sayfa sayısını rastgele değiştirir.
 
 Puan Ekle: Tüm kitapların puanlarını rastgele değiştirir.
