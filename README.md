@@ -10,8 +10,7 @@ ortalama puanı SQL sorgusu ile ve SQL sorgusu olmadan hesaplayabilir.
 
 ### Uygulama Arayüzü
 
-Kitap Bilgi Sistemi.png
-
+![Ekran Görüntüsü](Kitap Bilgi Sistemi.png)  
 ### Özellikler
 
 - Kitap kayıtlarını listeleme  
